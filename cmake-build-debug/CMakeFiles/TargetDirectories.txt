@@ -1,0 +1,3 @@
+C:/Users/kaptu/Desktop/Git/Lab/cmake-build-debug/CMakeFiles/Lab.dir
+C:/Users/kaptu/Desktop/Git/Lab/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kaptu/Desktop/Git/Lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
